@@ -1,29 +1,36 @@
 java c
-Econ 5860: Health Economics
-Autumn 2024
-Problem Set 3
-A. True/False Explain. Indicate whether each of the following statements is true or false and then explain why you think this. Include in your explanation any pertinent institutional details  and economic reasoning (including appropriate graphs and equations). Please provide concise, clear answers with minimal irrelevant detail. Explanation is required.  [5 points each]
-1.   In the Rothschild-Stiglitz model, more risk-averse consumers have flatter indifference curves, all else equal.
-2.   Suppose there is a separating equilibrium in the Rothschild-Stiglitz model. If everyone becomes more risk-averse, this can cause the equilibrium to collapse.
-3.   Policymakers in at least 14 states in the US have in recent history passed laws called
-“community-rating” laws. The idea of these laws is that, since individual private health insurance markets don’t seem to function very well, leaving many older and sickly people unable to purchase affordable insurance, community rating laws impose restrictions on prices that insurance companies are allowed to charge. Consider a community rating law that forces insurance companies to charge the same price to all individuals (and forces insurance companies to sell insurance to anyone who is willing to pay the chosen price).
-True or false: the Rothschild-Stiglitz model suggests that this law will help old and sickly people gain access to insurance.
-4.   Empirical evidence suggests that the primary reason why there is a physician shortage in the US is because wages are prevented from adjusting upward to allow the competitive market to reach an equilibrium.
-B. Analytical Problems
-5.   Consider the basic Rothschild-Stiglitz model with asymmetric information and two types of consumers. A policymaker who has taken this class suggests that it might bebeneficial to impose a flat tax on healthy people and代 写Econ 5860: Health Economics Autumn 2024 Problem Set 3
-代做程序编程语言 distribute the tax revenue to sick people, providing partial insurance to people.
-a.   [5 points] Since the tax will only offer partial insurance, there will still be a
-private competitive market for additional insurance. Will a separating equilibrium be possible in the insurance market if this tax is implemented? Draw a diagram to justify your answer.
-b.   [4 points] After the tax is implemented a recession hits and a new policymaker decides to make up for a tax revenue shortfall by expanding the tax to include sick people as well as healthy people. Will a separating equilibrium be possible in the insurance market under this policy?
-6.   Physician Supply: The supply of physician office visits is given by QS=40P-1000, and demand for physician office visits is QD=6000-60P.
-a.   [2 points] If the market is perfectly competitive, what are the equilibrium price and quantity?
-b.   [3 points] Suppose there is an entry barrier that prevents new physicians from  entering the market, which limits QS = 900.  What is the market price given this entry barrier?
-c.    [6 points] Congress is deciding whether to pass a law that will eliminate this
-barrier to entry, returning the market to competitive equilibrium. What is the maximum amount of money the physician trade union would be willing to spend on congressional lobbyists to keep the barrier to entry in place?  Assume that the objective of the trade union is to maximize total producer surplus.
-Short Answers
-7.   [6 points]  Dranove and Wehner (1994) argue that the statistical evidence used to
-support the supplier-induced demand hypothesis is invalid because they find that the same statistical techniques also suggest that obstetricians induce demand.  Briefly explain the supplier-induced demand hypothesis and why this finding by Dranove and Wehner is evidence against the hypothesis.
-
+Applied Mathematics and Statistics 553.420/620
+Probability
+Spring 2024 (4 credits, EQ)
+COURSE DESCRIPTION (from the course catalog)
+Probability and its applications, at the calculus level. Emphasis on techniques of application rather than on rigorous mathematical demonstration. Probability, combinatorial probability, random variables, distribution functions, important probability distributions, independence, conditional probability, moments, joint distributions, covariance and correlation, conditional distributions, conditional expectation, conditional variance, ordered statistics, exchangeability, inequalities, limit theorems. Students initiating graduate work in probability or statistics should enrollin EN.550.620. Auditors are not permitted. Recommended Course Background: one year of calculus and mathematical maturity; Co-requisite: multivariable calculus.
+Prerequisites
+(AS.110.108 [+] AND AS.110.109 [+]) OR (AS.110.106 [+] AND AS.110.107 [+])
+Statistics Sequence restriction: students who have already completed EN.550.430 [+] may not register
+REFERENCES
+My personal course notes will be provided.
+(Not required) Sheldon Ross,A First Course in Probability, Pearson Publishing, 9th edition or later. My personal course notes were written around the 9th  edition of this textbook. The problems and theoretical exercises are very good in this textbook (some have answers in the back of the book) and each chapter has a chapter test with full solutions in the back of the book.
+Gabe Gormezano, Intuition to Probability**, book (in progress).  Written by one of our undergraduates a PDF version of this book will be posted to Canvas for your enjoyment.  It is an excellent source for problems/exercises to expand your knowledge of the subject.
+COURSE ASSESSMENT  GRADE ASSIGNMENT
+Weekly homework assignments (25%) – expect a homework assignment* each week without a midterm
+*some homework will be posted but will not be collected for grade, Two (2) midterms (25% each),last exam – noncumulative (25%)
+Cut-offs for letter grades to be posted after the grading of each midterm and after last homework.
+IMPORTANT DATESThursday, FEB. 29, Midterm 1 @ 6:00 in a room to be announced. Thursday, APR. 04, Midterm 2 @ 6:00 in a room to be announced. Last exam: MAY 14 @ 2:00-3:30. Location to be announced.
+These exam dates are mandatory.  代 写Applied Mathematics and Statistics 553.420/620 Probability Spring 2024SQL
+代做程序编程语言Plan to take these midterms at these times.  If you happen to miss a    midterm, you may be eligible for an incomplete in this course, which you can plan to make-up in January. A university verifiable excuse with valid documentation may be necessary.
+OPPORTUNITIES FOR BONUS POINTSBelow I list ways that students can be awarded additional points this semester.  The actual points awarded have not been fully determined or are not being disclosed.  I consider these as incentives, and no one will  be punished for not taking advantage of these opportunities.
+.   Homework solutions submitted/typeset completely in LaTeX may receive additional points per assignment. Students will not be deducted points for not submitting LaTeX’d solutions.
+.   On exams, there is sometimes a bonus part to a question that will grant a few extra points if answered correctly.
+.   By attending and participating in your assigned section, you may receive a bonus to your final
+grade if you have perfect/near perfect attendance and participate substantially by answering and asking many questions. If you have perfect/near perfect attendance, but participate more
+inconsistently, you may receive a small bonus to your final grade. There is no penalty for a lack of attendance/participation.
+EXTRA CREDIT OPPORTUNITIES
+Other than the methods listed in the section above, there are no other opportunities to gain extra credit. Please do not ask myself or any TAs for such opportunities.
+MIDTERMS
+.   To the extent possible midterm examinations will be non-cumulative; however, since this course builds on itself and introduces definitions and ideas continually, you may be required to recall an idea from an earlier part of the course on midterm examinations.
+.   Midterm content will either be made clear in Lectures, Canvas, or by email communication – see also the tentative schedule on last page of this syllabus. Generally, homework assignments, in-class examples, related book examples/problems, lecture content, old midterms/problems,
+exercises from recitation sections are all fair-game.
+.   Exams will be administered IN-PERSON.  Students will have a fixed amount of time to complete the exam (typically 75 minutes).  If you’re allowed extended time for midterms, I need you to send me this documentation immediately.
 
 
 
